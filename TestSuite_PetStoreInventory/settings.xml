@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="d39874af-b54e-45d6-853e-d8d33d7ed580" name="TestSuite_PetStoreInventory" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="d39874af-b54e-45d6-853e-d8d33d7ed580fileName">TestSuite_PetStoreInventory</con:setting>
+  </con:settings>
+  <con:runType>SEQUENTIAL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>
